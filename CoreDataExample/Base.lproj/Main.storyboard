@@ -196,7 +196,7 @@
                                 <rect key="frame" x="0.0" y="70" width="375" height="597"/>
                                 <subviews>
                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="First Name" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="IAQ-Sn-d1l" customClass="SkyFloatingLabelTextField" customModule="CoreDataExample" customModuleProvider="target">
-                                        <rect key="frame" x="14" y="21" width="347" height="40"/>
+                                        <rect key="frame" x="14" y="21" width="346" height="40"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="685-iY-gVh"/>
                                         </constraints>
@@ -234,7 +234,7 @@
                                         </connections>
                                     </textField>
                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Last Name" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="esI-3j-y0i" customClass="SkyFloatingLabelTextField" customModule="CoreDataExample" customModuleProvider="target">
-                                        <rect key="frame" x="14" y="85" width="347" height="40"/>
+                                        <rect key="frame" x="14" y="85" width="346" height="40"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="EeS-zO-e1V"/>
                                         </constraints>
@@ -269,7 +269,7 @@
                                         </connections>
                                     </textField>
                                     <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="City" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="aaD-D8-sH0" customClass="SkyFloatingLabelTextField" customModule="CoreDataExample" customModuleProvider="target">
-                                        <rect key="frame" x="14" y="146" width="347" height="40"/>
+                                        <rect key="frame" x="14" y="146" width="346" height="40"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="sLX-SD-ACm"/>
                                         </constraints>
@@ -310,7 +310,7 @@
                                         </connections>
                                     </textField>
                                     <textField opaque="NO" clipsSubviews="YES" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Date of Birth" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="cTg-Ox-pab" customClass="SkyFloatingLabelTextField" customModule="CoreDataExample" customModuleProvider="target">
-                                        <rect key="frame" x="14" y="207" width="347" height="40"/>
+                                        <rect key="frame" x="14" y="207" width="346" height="40"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="40" id="BGy-fE-cHr"/>
                                         </constraints>
@@ -358,7 +358,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="w7p-GF-CoB">
-                                        <rect key="frame" x="274" y="266" width="51" height="31"/>
+                                        <rect key="frame" x="273" y="266" width="51" height="31"/>
                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="31" id="C4e-Eh-Udq"/>
@@ -410,7 +410,7 @@
                                         </connections>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="M" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Yx9-JF-pF6">
-                                        <rect key="frame" x="237" y="271" width="29" height="21"/>
+                                        <rect key="frame" x="236" y="271" width="29" height="21"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="21" id="Irm-s8-p3p"/>
                                             <constraint firstAttribute="width" constant="29" id="v6s-MY-5NA"/>
@@ -420,7 +420,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="F" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fAi-Mp-Y4q">
-                                        <rect key="frame" x="331" y="271" width="29" height="21"/>
+                                        <rect key="frame" x="330" y="271" width="29" height="21"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="21" id="FUe-UH-jnW"/>
                                             <constraint firstAttribute="width" constant="29" id="Wbe-h7-HhG"/>
